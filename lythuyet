@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<!--Nhap tay-->
+<input type="text">
+<input type="email">
+<input type="number">
+<input type="password">
+<textarea name="" id="" cols="30" rows="10"></textarea>
+<!--chon-->
+<input type="checkbox">
+<input type="radio">
+<select name="" id="">
+    <option value=""></option>
+</select>
+<!--nut-->
+<button></button>
+<input type="button" value="">
+<!--dac biet-->
+<br>
+
+</body>
+</html>
